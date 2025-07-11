@@ -13,7 +13,7 @@ To understand consumer behavior and predict purchase amounts based on features l
 - Linear Regression
 
 ## 📁 Files
-- `ANwrrr_coure.ipynb` – Jupyter Notebook with all analysis and modeling.
+- `Black_friday_sales` – Jupyter Notebook with all analysis and modeling.
 - `train.csv` – Dataset used (you can upload or link it).
 - `README.md` – This file.
 
