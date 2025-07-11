@@ -14,7 +14,8 @@ To understand consumer behavior and predict purchase amounts based on features l
 
 ## 📁 Files
 - `Black_friday_sales` – Jupyter Notebook with all analysis and modeling.
-- `train.csv` – Dataset used (you can upload or link it).
+- `train.csv` – Dataset
+- 'test.csv' – Dataset
 - `README.md` – This file.
 
 ## 📈 Summary
